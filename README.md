@@ -65,7 +65,7 @@ This project applies **Machine Learning (Neural Networks)** to forecast energy u
 ## 📈 Visualization
 
 ### Neural Network Predictions vs Actual
-plt.savefig("images/nn_predictions.png")
+"C:\Users\Hp\OneDrive\Documents\image.png"
 
 ---
 
