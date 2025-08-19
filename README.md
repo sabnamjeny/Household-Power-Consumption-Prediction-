@@ -1,6 +1,6 @@
-# ⚡ PowerPulse: Household Energy Usage Forecasting
+#  PowerPulse: Household Energy Usage Forecasting
 
-## 📌 Overview
+## Overview
 PowerPulse is a Data Science project that predicts **household electricity consumption** using historical data.  
 The goal is to help in **energy management, demand forecasting, and better decision-making** for smart grids.  
 
@@ -8,7 +8,7 @@ This project applies **Machine Learning (Neural Networks)** to forecast energy u
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source:** [Individual Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)  
 - **Time Period:** Dec 2006 – Nov 2010  
 - **Observations:** ~2,075,259 rows (1-min sampling rate)  
@@ -21,9 +21,9 @@ This project applies **Machine Learning (Neural Networks)** to forecast energy u
   - Sub-metering (1, 2, 3)  
   - Derived features: Year, Month, Day, Hour, DayOfWeek  
 
----
+--------
 
-## ⚙️ Steps & Workflow
+##  Steps & Workflow
 1. **Data Preprocessing**
    - Missing values handled  
    - Converted `Date` & `Time` → `DateTime`  
@@ -60,23 +60,23 @@ This project applies **Machine Learning (Neural Networks)** to forecast energy u
 
 ✅ The model successfully predicts household power consumption with good accuracy.  
 
----
+-------
 
-## 📈 Visualization
+##  Visualization
 
 ### Neural Network Predictions vs Actual
-"C:\Users\Hp\OneDrive\Documents\image.png"
+https://github.com/sabnamjeny/Household-Power-Consumption-Prediction-/blob/main/image.png
 
----
+------
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras  
 - **Tools:** Google Colab, GitHub  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/sabnamjeny/powerpulse-energy-forecast.git
